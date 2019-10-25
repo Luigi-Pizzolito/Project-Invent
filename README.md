@@ -1,2 +1,3 @@
 # PI
 Repository for my Project Invent team, exciting stuff coming soon hopefully...
+Meanwhile checkout our [Wiki](./wiki)
